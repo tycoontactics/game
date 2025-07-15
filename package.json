@@ -1,6 +1,6 @@
 {
-  "name": "client",
-  "homepage": "https://arastubuilds.github.io/monopoly/",
+  "name": "game",
+  "homepage": "https://tycoontactics.github.io/game/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
