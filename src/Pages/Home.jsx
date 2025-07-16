@@ -8,7 +8,7 @@ const Home = () => {
                     Tycoon Tactics
                 </h1>
                 <p className="text-lg italic text-gray-600 mb-6">
-                    Fast Dealing Property Trading Game
+                    A Fast Dealing Property Trading Game
                 </p>
                 <div className="flex flex-col justify-center items-center md:flex-row md:space-x-4 space-y-4 md:space-y-0">
                     <Link to="/create" className="w-48">
