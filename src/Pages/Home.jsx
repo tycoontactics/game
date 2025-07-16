@@ -5,7 +5,7 @@ const Home = () => {
 
                 <div className="relative z-10 text-center h-screen flex flex-col justify-center items-center">
                 <h1 className="text-5xl font-bold text-red-600 font-mono mb-2">
-                    Tycoon Tactics
+                    TycoonTactics
                 </h1>
                 <p className="text-lg italic text-gray-600 mb-6">
                     A Fast Dealing Property Trading Game
